@@ -76,8 +76,8 @@
     "zod": "4.4.3"
   },
   "devDependencies": {
-    "@clipboard-health/ai-rules": "2.21.1",
-    "@clipboard-health/oxlint-config": "1.9.4",
+    "@clipboard-health/ai-rules": "2.22.8",
+    "@clipboard-health/oxlint-config": "1.10.18",
     "@nx/js": "22.7.3",
     "@tsconfig/node24": "24.0.4",
     "@tsconfig/strictest": "2.0.8",
